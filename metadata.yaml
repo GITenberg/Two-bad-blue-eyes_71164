@@ -1,11 +1,16 @@
 _repo: Two-bad-blue-eyes_71164
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71164-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Humphreys, Eliza Margaret J. ("Rita")
     gutenberg_agent_id: '56099'
     url: http://www.gutenberg.org/2009/agents/56099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71164#Two-bad-blue-eyes
 gutenberg_issued: '2023-07-10'
 identifiers:
   gutenberg: '71164'
